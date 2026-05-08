@@ -1,0 +1,26 @@
+[2026-05-06 20:52:27] ============================================
+[2026-05-06 20:52:27] Iniciando script de automatización del sistema
+[2026-05-06 20:52:27] Directorio base: /home/federicolera/devops-TP01
+[2026-05-06 20:52:27] ============================================
+[2026-05-06 20:52:27] === TAREA 1: Iniciando backup ===
+[2026-05-06 20:52:27] Backup completado en: /home/federicolera/devops-TP01/backups/backup_2026-05-06_20-52-27 (0 archivos)
+[2026-05-06 20:52:27] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-06 20:52:27] Limpieza completa. Archivos eliminados: 0
+[2026-05-06 20:52:27] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-06 20:52:27] Reporte guardado en: /home/federicolera/devops-TP01/logs/reporte_2026-05-06_20-52-27.txt
+[2026-05-06 20:52:27] ============================================
+[2026-05-06 20:52:27] Todas las tareas completadas exitosamente
+[2026-05-06 20:52:27] ============================================
+[2026-05-08 14:59:07] ============================================
+[2026-05-08 14:59:07] Iniciando script de automatización del sistema
+[2026-05-08 14:59:07] Directorio base: /home/federicolera/devops-TP01
+[2026-05-08 14:59:07] ============================================
+[2026-05-08 14:59:07] === TAREA 1: Iniciando backup ===
+[2026-05-08 14:59:07] Backup completado en: /home/federicolera/devops-TP01/backups/backup_2026-05-08_14-59-07 (0 archivos)
+[2026-05-08 14:59:07] === TAREA 2: Limpieza de archivos mayores a 3 días ===
+[2026-05-08 14:59:07] Limpieza completa. Archivos eliminados: 0
+[2026-05-08 14:59:07] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-08 14:59:07] Reporte guardado en: /home/federicolera/devops-TP01/logs/reporte_2026-05-08_14-59-07.txt
+[2026-05-08 14:59:07] ============================================
+[2026-05-08 14:59:07] Todas las tareas completadas exitosamente
+[2026-05-08 14:59:07] ============================================

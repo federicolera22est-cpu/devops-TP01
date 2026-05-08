@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-08_14-59-07
+===============================
+
+--- CPU ---
+Uso CPU: 14,6%
+
+--- MEMORIA ---
+Total: 7,5Gi | Usado: 3,2Gi | Libre: 2,1Gi
+
+--- DISCO ---
+Total: 457G | Usado: 14G | Libre: 420G | Uso: 4%
+
+--- PROCESOS TOP 5 (por CPU) ---
+ps                   CPU: 200%
+/proc/self/exe       CPU: 99.2%
+/snap/firefox/7766/usr/lib/firefox/firefox CPU: 5.0%
+bash                 CPU: 4.6%
+/snap/discord/278/usr/share/discord/Discord CPU: 4.4%
+
+--- UPTIME ---
+ 14:59:07 up  2:25,  1 user,  load average: 2,12, 1,86, 1,17
